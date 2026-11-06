@@ -1,37 +1,36 @@
-### Hi there, I'm [SheidY] 👋
+### Привет, я Матвей 👋
 
-**Full Stack Developer from [Moscow]**
+**Начинающий веб-разработчик из Москвы, мне 15 лет**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-профиль)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ваш-профиль)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш-профиль)
-
----
-
-### 👨‍💻 About me
-
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](https://medium.com/@ваш-профиль)
-- 📫 Reach me by [LinkedIn](https://linkedin.com/in/ваш-профиль), [Email](mailto:ваш-email@example.com)
-- 💬 I speak Russia
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@she1dym)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/SheidY1)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/she1dy_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sheidy1)
 
 ---
 
-### 🛠️ Languages and tools
+### 👨‍💻 Обо мне
+
+- 🎮 Играю в ПК игры
+- 🚗 Люблю машины
+- 🎓 Люблю ходить в колледж
+- 📫 Связаться со мной можно в [Telegram](https://t.me/ваш-профиль)
+- 💬 Говорю по-русски
+
+---
+
+### 🛠️ Языки и инструменты
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
 ---
 
-### 📊 My stat
+### 📊 Моя статистика (Изучение)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheidY&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=dark&hide=html,css" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-40%25-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheidY&theme=dark" alt="GitHub Streak" width="48%" />
-</p># Main

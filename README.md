@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Привет,+я+Матвей!;15+лет+%7C+Начинающий+Web-разработчик;Изучаю+HTML,+CSS+и+JavaScript" alt="Typing SVG" />
-</div>
+<h1 align="center">Привет, меня зовут Матвей! 👋</h1>
+<p align="center"><b>15 лет | Начинающий Web-разработчик из Москвы</b></p>
 
 <br/>
 
@@ -9,7 +8,7 @@
 - 🎮 Играю в ПК игры (фанат CS)
 - 🚗 Обожаю автомобили и всё, что с ними связано
 - 🎓 Учусь в колледже на IT-специальности
-- 🎯 В данный момент активно развиваюсь во Веб-Разработке
+- 🎯 В данный момент активно развиваюсь во фронтенд-разработке
 - 💬 Общаюсь на русском языке
 
 ---
@@ -50,7 +49,7 @@
 
 <div align="center">
   <a href="https://github.com/SheidY1/SheidY1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SheidY1&repo=SheidY1&theme=tokyonight&hide_border=true" alt="Мой профиль" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SheidY1&repo=SheidY1&theme=tokyonight&hide_border=true" alt="Мой профиль" />
   </a>
 </div>
 
@@ -59,14 +58,14 @@
 ### 📈 Статистика GitHub
 
 <div align="center">
-  <img src="https://gh-stats.com/api/SheidY1?theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://gh-stats.com/api/toplangs/SheidY1?theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SheidY1&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SheidY1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://gh-stats.com/api/streak/SheidY1?theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-stats-extended.vercel.app/api/streak/?username=SheidY1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
 
 <br/>

@@ -58,8 +58,8 @@
 ### 📈 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SheidY1&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SheidY1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SheidY1&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SheidY1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
